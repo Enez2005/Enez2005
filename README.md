@@ -1,4 +1,10 @@
-## Hi there 👋
+Well, well, well...
+
+I guess if you are reading this you are interested in learning more about me, I'm still a college student
+and I want to learn a lot more about opensource, hey maybe if you are here its because I already did something
+valuable for the community, sooo yep thats it, if you'd like to reach me just write a mail to enez2005@gmail.com
+thanks for reading see you later.
+
 
 <!--
 **Enez2005/Enez2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
